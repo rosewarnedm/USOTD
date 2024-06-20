@@ -1,3 +1,5 @@
+This is a list of autocurated cases contain images documenting everyday pathologies coming through the department and should be useful in training and CPD.
+
 
 ## June 19, 2024
 Based on the given radiology reports and the criteria for educational merit and educational value, here are the accession numbers for the best five percent of cases with positive pathology:
